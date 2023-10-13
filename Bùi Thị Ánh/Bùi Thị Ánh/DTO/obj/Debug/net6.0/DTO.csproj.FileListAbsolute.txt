@@ -1,0 +1,24 @@
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\bin\Debug\net6.0\DTO.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\bin\Debug\net6.0\DTO.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\bin\Debug\net6.0\DTO.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\bin\Debug\net6.0\DTO.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\DTO.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\DTO\obj\Debug\net6.0\ref\DTO.dll

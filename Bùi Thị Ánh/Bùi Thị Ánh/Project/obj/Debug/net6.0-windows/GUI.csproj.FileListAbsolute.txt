@@ -1,0 +1,109 @@
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.exe
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.deps.json
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\refint\GUI.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\ref\GUI.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_DangKy.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_DangNhap.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_HoaDon.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_KhachHang.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_NhanVien.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_SanPham.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_TimKiem.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\BUS.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DAL.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DTO.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\BUS.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DAL.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DTO.pdb
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\EPPlus.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.Gui_HoaDonNhap.resources
+E:\Project\Project1_Winform\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.Gui_Menu.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.exe
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.deps.json
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.runtimeconfig.json
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\GUI.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\EPPlus.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\BUS.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DAL.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DTO.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\BUS.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DAL.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\bin\Debug\net6.0-windows\DTO.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_DangKy.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_DangNhap.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_HoaDon.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.Gui_HoaDonNhap.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_KhachHang.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.Gui_Menu.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_NhanVien.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_SanPham.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_ThongKe_BaoCao.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\Cao_Van_Dan.GUI_TimKiem.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.Properties.Resources.resources
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.csproj.CopyComplete
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\refint\GUI.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.pdb
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\GUI.genruntimeconfig.cache
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\ref\GUI.dll
+D:\Đồ Án 1\Bùi Thị Ánh\Bùi Thị Ánh\Project\obj\Debug\net6.0-windows\BuiThiAnh.GUI_ThongKe_BaoCao.resources
